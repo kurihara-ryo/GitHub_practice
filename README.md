@@ -1,2 +1,3 @@
-GitHub_practiceGitHub_practice
-GitHub
+## Git の練習
+***作成日*** : 11月6日
+
